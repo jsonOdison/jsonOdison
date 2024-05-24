@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jsonodison" alt="jsonodison" /></a> </p>
 
-- 🔭 I’m currently working on @LWT [Kitaab ( fintech APP )](🔒)
+- 🔭 I’m currently working in @LWT on a flutter app [Kitaab ( fintech APP )](🔒)
 
 - 🌱 I’m currently learning **GraphQl , advance authenticaion**
 
