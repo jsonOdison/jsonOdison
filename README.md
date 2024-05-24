@@ -2,13 +2,13 @@
 
 <h1 align="center">Hi 👋, I'm Jason k</h1>
 <h3 align="center">📱 Crafting elegant mobile apps with Flutter | 🏢🏗️ Architecting scalable backends | 🧠 Diving into the world of machine learning & deep learning</h3>
-<img align="right" alt="Coding" width="400" src="https://tenor.com/view/silicon-valley-cost-of-working-with-humans-they-suck-gif-17348465">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jsonodison&label=Profile%20views&color=0e75b6&style=flat" alt="jsonodison" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jsonodison" alt="jsonodison" /></a> </p>
 
-- 🔭 I’m currently working in @LWT on a flutter app [Kitaab ( fintech APP )](🔒)
+- 🔭 I’m currently working @LWT on a flutter app [Kitaab ( fintech APP )](🔒)
 
 - 🌱 I’m currently learning **GraphQl , advance authenticaion**
 
