@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **jasonkhongwir1738@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1evrlAlTmdWV-vDbUZb58JeoP9YWAQhI0FNln2hPwW-4/edit?usp=sharing](https://docs.google.com/document/d/1evrlAlTmdWV-vDbUZb58JeoP9YWAQhI0FNln2hPwW-4/edit?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1WOkRI30y0PjJcxH4XjAgRXRiqDVK33a8/view?usp=drivesdk)
 
 - ⚡ Fun fact **My code runs on caffeine and the occasional midnight epiphany**
 
